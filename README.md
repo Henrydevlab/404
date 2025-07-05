@@ -16,9 +16,3 @@ Includes a countdown timer, a fallback "Back to Home" button, and accessibility 
 - 📱 Mobile-friendly with flexible layout
 - 🎬 Smooth fade-in animation on page load
 - 🛡️ Graceful fallback if JavaScript is disabled (manual button remains)
-
----
-
-## 📸 Preview
-
-![404 Error Page](404-preview.PNG)
